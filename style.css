@@ -1,6 +1,6 @@
 body {
-  background-color: LightGray; /*warna abu muda*/
-  font-family: Arial, sans-serif; /*jenis huruf yang bersih dan mudah dibaca*/
+  background-color: LightGray; 
+  font-family: Arial, sans-serif; 
   color: SlateBlue;
 }
 
@@ -16,5 +16,5 @@ body {
 
 .kartu-profil img{
   width: 150px;
-  border-radius: 25%; /*trik untuk membuat gambar menjadi lingkaran sempurna*/
+  border-radius: 25%; 
 }
